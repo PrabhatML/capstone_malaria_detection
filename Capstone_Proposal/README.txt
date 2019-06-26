@@ -1,3 +1,3 @@
-The dataset is available on below mentioned url.
+#Malaria image dataset url
 
-https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
+##https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
